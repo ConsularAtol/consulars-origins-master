@@ -1,0 +1,21 @@
+{
+  "powers": [
+  "consularsorigins:undead",
+  "consularsorigins:shoot_arrow",
+  "consularsorigins:grayskin",
+  "consularsorigins:charge",
+  "consularsorigins:alreadydead",
+  "consularsorigins:underground",
+  "consularsorigins:considered_undead"
+  ],
+  "upgrades": [
+    {
+      "condition": "consularsorigins:killed_wither",
+      "origin": "consularsorigins:wither_skeleton",
+      "announcement": "text.consularsorigins.become_wither"
+    }
+  ],
+  "icon": "arrow",
+  "order": 1,
+  "impact": 1
+}
