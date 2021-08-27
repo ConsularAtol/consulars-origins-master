@@ -88,6 +88,8 @@
   "power.consularsorigins.waterlegs.description": "Your legs are built for water, and cannot go very fast on land",
   "power.consularsorigins.water_vision.name": "Water Vision",
   "power.consularsorigins.water_vision.description": "You can see underwater",
+  "power.consularsorigins.waterspawn.name": "Water Spawn",
+  "power.consularsorigins.waterspawn.description": "You will spawn in a shipwreck. (Hopefully underwater)",
 
   "origin.consularsorigins.wither_skeleton.name": "Wither Skeleton",
   "origin.consularsorigins.wither_skeleton.description": "These undead creatures are excellent archers, and immnue to fire!!",
