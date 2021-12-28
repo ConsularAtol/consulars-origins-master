@@ -1,7 +1,0 @@
-{
-  "type": "consularsorigins:mob_neutrality",
-  "entity_types": [
-	"piglin",
-  "piglin_brute"
-  ]
-}

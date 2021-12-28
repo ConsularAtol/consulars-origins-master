@@ -1,8 +1,0 @@
-{
-    "type": "origins:night_vision",
-    "strength": 0.4,
-    "condition": {
-        "type": "origins:exposed_to_sun",
-        "inverted": true
-    }
-  }

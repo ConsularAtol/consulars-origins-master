@@ -1,7 +1,0 @@
-{
-    "type": "origins:modify_break_speed",
-    "modifier": {
-      "value": 0.03,
-      "operation": "addition"
-    }
-  }
