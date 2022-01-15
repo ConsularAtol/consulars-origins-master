@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"consularsorigins:blind",
+		"consularsorigins:sculk_shader",
+		"consularsorigins:sense_vibrations",
+		"consularsorigins:big",
+		"origins:no_shield"
+	],
+	"icon": "deepslate",
+	"order": 4,
+	"impact": 3
+}
